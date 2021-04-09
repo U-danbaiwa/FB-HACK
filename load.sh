@@ -13,4 +13,4 @@ echo -n [+] Loading...
 		fi
 	done
 echo
-chmod +x FB-HACK
+chmod +x FB-HACK.py
