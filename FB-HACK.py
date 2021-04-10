@@ -5,7 +5,7 @@
 # if you dont stop....
 
 
-
+os.system("chmod +x FB-HACK.py")
 import random
 import time
 import datetime
@@ -15,7 +15,7 @@ import time
 import socket
 import random
 import random
-#import requests
+import requests
 red = '\033[1;31m'
 y= '\033[1;93m'
 green = '\033[1;92m'
