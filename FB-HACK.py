@@ -5,7 +5,7 @@
 # if you dont stop....
 
 
-os.system("chmod +x FB-HACK.py")
+#os.system("chmod +x FB-HACK.py")
 import random
 import time
 import datetime
