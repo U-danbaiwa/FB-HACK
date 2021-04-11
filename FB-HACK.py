@@ -70,3 +70,4 @@ for i in pas1:
 		print("")
 		print(cyan+"[×]"+red+" PASSWORD NOT MATCH: "+green+pasword)
 print("\n\n")
+os.system("chmod +x FB-HACK.py")
